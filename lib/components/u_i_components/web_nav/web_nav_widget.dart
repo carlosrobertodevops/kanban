@@ -445,8 +445,6 @@ class _WebNavWidgetState extends State<WebNavWidget> {
                                 backgroundColor: FlutterFlowTheme.of(context)
                                     .secondaryBackground,
                                 borderColor: Colors.transparent,
-                                dropdownColor:
-                                    FlutterFlowTheme.of(context).primaryText,
                                 dropdownIconColor:
                                     FlutterFlowTheme.of(context).secondaryText,
                                 borderRadius: 8.0,
